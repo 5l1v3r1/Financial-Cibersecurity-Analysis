@@ -1,0 +1,41 @@
+{
+  "trigrams":[
+    "('t', 't', 't')",
+    "('n', 'n', 'n')",
+    "('n', 't', 't')",
+    "('t', 't', 'n')",
+    "('t', 'n', 't')",
+    "('non', 'this', 'server')",
+    "('t', 'have', 'permission')",
+    "('r', 'n', 't')",
+    "('n', 'r', 'n')",
+    "('for','a', 'qa')",
+    "('r', 'n', 'n')",
+    "('r', 'n', 'r')",
+    "('n', 'n', 't)",
+    "('t', 'r', 'n')",
+    "('n', 'n', 'the')",
+    "('t', 'n', 'n')",
+    "('xa0', 'n', 't')",
+    "('xa0', 'xa0', 'xa0')",
+    "('copyright', '2019', 'idg')",
+    "('idg', 'communications', 'inc')",
+    "('am', 'n', 't')",
+    "('pt', 'n', 't')",
+    "('t', 'pt', 'n')",
+    "('t', 't', 'pt')",
+    "('a', 'qa', 'paypal')",
+    "('t', 't', 'tyou')",
+    "('i', 'm', 'a')",
+    "('xa0', 'r', 'n')",
+    "('ms', 'rating', 'important')",
+    "('rating', 'important', 'xa0)"
+  ],
+  "conjuntos_letras":[
+    "'xa0'",
+    "xa0",
+    " 'xa0'",
+    "n",
+    "''n'"
+  ]
+}

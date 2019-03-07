@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>RSS Feed - Symantec Corp.</title><description>The Threat Explorer is a comprehensive resource for daily, accurate and up-to-date information on the latest threats, risks and vulnerabilities.</description><item><title>RainbowCrack</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-051616-5433-99&amp;om_rssid=sr-</link><description> Type: 
+Security Assessment Tool
+</description><pubDate>May 17, 2006</pubDate></item><item><title>Ransom.777</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051919-1952-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.AlmaLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-082311-3451-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 23, 2016</pubDate></item><item><title>Ransom.AlmaLocker!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-082313-5219-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 23, 2016</pubDate></item><item><title>Ransom.AlphaLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-050222-2032-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Apocalypse</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-063013-2557-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 30, 2016</pubDate></item><item><title>Ransom.Arena</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-100516-2840-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 05, 2017</pubDate></item><item><title>Ransom.Arena!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-100615-2805-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 05, 2017</pubDate></item><item><title>Ransom.AutoLocky</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-041814-2300-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 18, 2016</pubDate></item><item><title>Ransom.BadBlock</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-052422-5957-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 24, 2016</pubDate></item><item><title>Ransom.BadRabbit</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-102503-0423-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Oct 24, 2017</pubDate></item><item><title>Ransom.BadRabbit!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-102514-4939-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Oct 25, 2017</pubDate></item><item><title>Ransom.BadRabbit!g2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-102514-1935-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Oct 25, 2017</pubDate></item><item><title>Ransom.BandarChor</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-031007-4503-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 10, 2015</pubDate></item><item><title>Ransom.BART</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-062703-5956-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 25, 2016</pubDate></item><item><title>Ransom.BART!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-062706-1756-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 25, 2016</pubDate></item><item><title>Ransom.BitCrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-051514-5659-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 15, 2014</pubDate></item><item><title>Ransom.BlackShades</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-060315-2716-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 04, 2016</pubDate></item><item><title>Ransom.Bloccato</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-052511-3033-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 25, 2016</pubDate></item><item><title>Ransom.BrLock</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-042818-1625-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.BrLock!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-050911-2208-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.BTCware</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-063009-0310-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 28, 2017</pubDate></item><item><title>Ransom.Bucbi</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-050921-2018-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 10, 2016</pubDate></item><item><title>Ransom.CasinoMG</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-062514-1622-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 25, 2014</pubDate></item><item><title>Ransom.Cerber</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-030408-0817-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Cerber!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051806-0955-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Cerber!g11</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-120111-4159-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 20, 2016</pubDate></item><item><title>Ransom.Cerber!g12</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-110810-5222-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 08, 2016</pubDate></item><item><title>Ransom.Cerber!g13</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-121506-4618-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 14, 2016</pubDate></item><item><title>Ransom.Cerber!g14</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-010503-5710-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 04, 2017</pubDate></item><item><title>Ransom.Cerber!g15</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-012318-4609-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 23, 2017</pubDate></item><item><title>Ransom.Cerber!g17</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-021307-2732-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 13, 2017</pubDate></item><item><title>Ransom.Cerber!g18</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-022107-1549-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 21, 2017</pubDate></item><item><title>Ransom.Cerber!g23</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-050907-2538-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 09, 2017</pubDate></item><item><title>Ransom.Cerber!g25</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-052206-4010-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 22, 2017</pubDate></item><item><title>Ransom.Cerber!g28</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-062106-3322-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 21, 2017</pubDate></item><item><title>Ransom.Cerber!g31</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-071007-2046-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 10, 2017</pubDate></item><item><title>Ransom.Cerber!g7</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-090213-3939-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 03, 2016</pubDate></item><item><title>Ransom.Cerber!g9</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-080406-2010-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 26, 2016</pubDate></item><item><title>Ransom.Cerber!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-060716-0423-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 07, 2016</pubDate></item><item><title>Ransom.Chimera</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-102004-3032-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 20, 2015</pubDate></item><item><title>Ransom.CoinVault</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-111810-4132-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 16, 2014</pubDate></item><item><title>Ransom.Coverton</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032801-3716-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Cry</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-090713-5229-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 07, 2016</pubDate></item><item><title>Ransom.Cry!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-091415-3041-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 14, 2016</pubDate></item><item><title>Ransom.Cryakl</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-092211-0927-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 22, 2015</pubDate></item><item><title>Ransom.Cryakl!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-112303-3404-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 21, 2015</pubDate></item><item><title>Ransom.Cryakl!gen2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-112419-0555-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 24, 2015</pubDate></item><item><title>Ransom.Cryakl!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-092212-4842-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 22, 2015</pubDate></item><item><title>Ransom.CryptInfinite</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-112307-3527-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 23, 2015</pubDate></item><item><title>Ransom.Cryptlockr.B!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-103011-0652-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 28, 2014</pubDate></item><item><title>Ransom.CryptoApp</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-081813-3127-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 18, 2015</pubDate></item><item><title>Ransom.Cryptodefense</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-032622-1552-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 26, 2014</pubDate></item><item><title>Ransom.CryptoGraphic</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-090811-0237-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 08, 2014</pubDate></item><item><title>Ransom.Cryptohasyou</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-033006-0421-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.CryptoHitman</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051715-0551-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.CryptoHost</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-041108-0859-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.CryptoJoker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-010510-1012-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 05, 2016</pubDate></item><item><title>Ransom.Cryptolock!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-091312-3326-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate/></item><item><title>Ransom.Cryptolock!g10</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-040111-0547-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 01, 2015</pubDate></item><item><title>Ransom.Cryptolock!g13</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-070308-0602-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 03, 2015</pubDate></item><item><title>Ransom.Cryptolock!g14</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-070723-1324-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 08, 2015</pubDate></item><item><title>Ransom.Cryptolock!g15</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-020220-2931-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 31, 2015</pubDate></item><item><title>Ransom.Cryptolock!g2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-110811-1850-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 08, 2013</pubDate></item><item><title>Ransom.Cryptolock!g23</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-062807-1606-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 23, 2016</pubDate></item><item><title>Ransom.Cryptolock!g3</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-111508-0007-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 15, 2013</pubDate></item><item><title>Ransom.Cryptolock!g4</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-111902-3632-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 19, 2013</pubDate></item><item><title>Ransom.Cryptolock!g5</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-073116-5915-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 31, 2014</pubDate></item><item><title>Ransom.Cryptolock!g6</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-012715-4509-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 27, 2015</pubDate></item><item><title>Ransom.Cryptolock!g7</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-101513-1959-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 10, 2014</pubDate></item><item><title>Ransom.Cryptolock!g9</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-010916-3505-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 10, 2015</pubDate></item><item><title>Ransom.Cryptolock!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-030614-5800-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 06, 2014</pubDate></item><item><title>Ransom.Cryptolocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-091122-3112-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 12, 2013</pubDate></item><item><title>Ransom.Cryptolocker.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-060208-2817-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 01, 2014</pubDate></item><item><title>Ransom.Cryptolocker.C</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-060111-5642-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 31, 2015</pubDate></item><item><title>Ransom.Cryptolocker.D</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-012411-2158-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 28, 2014</pubDate></item><item><title>Ransom.CryptoMix</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-040611-5943-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.CryptoMix!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-040614-4925-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Crypton</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-112108-1428-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 20, 2016</pubDate></item><item><title>Ransom.CryptoTorLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-020521-0805-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 05, 2015</pubDate></item><item><title>Ransom.Cryptowall</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-061923-2824-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 20, 2014</pubDate></item><item><title>Ransom.CryptoWall!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-060915-2745-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 10, 2014</pubDate></item><item><title>Ransom.CryptoWall!g10</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-030312-3047-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 03, 2015</pubDate></item><item><title>Ransom.CryptoWall!g11</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-041006-4949-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 10, 2015</pubDate></item><item><title>Ransom.CryptoWall!g12</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-041610-5920-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 16, 2015</pubDate></item><item><title>Ransom.CryptoWall!g13</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-042711-2949-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 27, 2015</pubDate></item><item><title>Ransom.CryptoWall!g2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-070413-2510-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 04, 2014</pubDate></item><item><title>Ransom.CryptoWall!g3</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-082012-2317-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 20, 2014</pubDate></item><item><title>Ransom.CryptoWall!g4</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-100110-3300-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 01, 2014</pubDate></item><item><title>Ransom.CryptoWall!g8</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-030216-4212-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 02, 2015</pubDate></item><item><title>Ransom.CryptoWall!g9</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-030309-4311-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 03, 2015</pubDate></item><item><title>Ransom.Cryptowall!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-102014-1957-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 19, 2014</pubDate></item><item><title>Ransom.Cryptowall.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-111321-3041-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 14, 2015</pubDate></item><item><title>Ransom.CryptXXX</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-041912-5637-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.CryptXXX!g14</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-080806-3243-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 05, 2016</pubDate></item><item><title>Ransom.CryptXXX!g19</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-102714-2311-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 27, 2016</pubDate></item><item><title>Ransom.CryptXXX!g2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-052406-3402-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 24, 2016</pubDate></item><item><title>Ransom.CryptXXX!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-041914-5449-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.CryPy</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-101319-0700-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 13, 2016</pubDate></item><item><title>Ransom.Crysis</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-060920-2315-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 09, 2016</pubDate></item><item><title>Ransom.Crysis!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061013-4501-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 09, 2016</pubDate></item><item><title>Ransom.CTBLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-071611-5805-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 16, 2014</pubDate></item><item><title>Ransom.CTBLocker!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-020611-3226-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 06, 2015</pubDate></item><item><title>Ransom.DataKeeper</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-031401-1430-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 10, 2018</pubDate></item><item><title>Ransom.DataKeeper!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-031416-4858-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 10, 2018</pubDate></item><item><title>Ransom.DecodeIndia</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-111418-2748-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 14, 2014</pubDate></item><item><title>Ransom.DecodeIndia!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-111419-2941-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 15, 2014</pubDate></item><item><title>Ransom.DEDCryptor</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061722-3341-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 18, 2016</pubDate></item><item><title>Ransom.Defray</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-082804-0803-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 26, 2017</pubDate></item><item><title>Ransom.Defray!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-082809-0503-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 26, 2017</pubDate></item><item><title>Ransom.DMALocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-011303-4921-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 13, 2016</pubDate></item><item><title>Ransom.Domino</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-083020-2019-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 30, 2016</pubDate></item><item><title>Ransom.DXXD</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-101301-5401-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 13, 2016</pubDate></item><item><title>Ransom.Enciphered</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-050702-0428-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 14, 2014</pubDate></item><item><title>Ransom.EncRaaS!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032921-0404-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.EncRaaS!g2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-041523-3446-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.EncRaaS!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-112414-1930-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 24, 2015</pubDate></item><item><title>Ransom.EncryptorRaaS</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-072908-2643-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 29, 2015</pubDate></item><item><title>Ransom.Enigma</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051015-5350-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Enigma!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051016-1353-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Erebus</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-061306-4541-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 12, 2017</pubDate></item><item><title>Ransom.Evil</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-010922-0927-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 09, 2017</pubDate></item><item><title>Ransom.Fakecry</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-070513-3014-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 05, 2017</pubDate></item><item><title>Ransom.FakeDHS</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032418-5253-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.FakeDOJ</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-061617-5545-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 16, 2014</pubDate></item><item><title>Ransom.FakeDOJ!inf</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-081012-4518-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Aug 10, 2015</pubDate></item><item><title>Ransom.FakeDOJ!inf3</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-112815-1704-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 28, 2014</pubDate></item><item><title>Ransom.Fantom</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-082614-4453-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 27, 2016</pubDate></item><item><title>Ransom.FireCrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-010500-4216-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 05, 2017</pubDate></item><item><title>Ransom.Fsociety</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-090223-4621-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 03, 2016</pubDate></item><item><title>Ransom.GandCrab</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-013106-5656-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 31, 2018</pubDate></item><item><title>Ransom.GandCrab!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-031415-1205-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 13, 2018</pubDate></item><item><title>Ransom.GandCrab!g3</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-042605-4306-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 26, 2018</pubDate></item><item><title>Ransom.GandCrab!g4</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-052805-1638-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 26, 2018</pubDate></item><item><title>Ransom.Gen</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-032012-4934-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 18, 2016</pubDate></item><item><title>Ransom.GlobeImposter</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-052604-1409-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 25, 2017</pubDate></item><item><title>Ransom.Goldeneye</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-120715-1834-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 06, 2016</pubDate></item><item><title>Ransom.Googo</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-101323-4555-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 15, 2016</pubDate></item><item><title>Ransom.HadesLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-100523-4609-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 06, 2016</pubDate></item><item><title>Ransom.Haknata</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-070415-3657-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 04, 2017</pubDate></item><item><title>Ransom.Haknata!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-070415-5455-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 04, 2017</pubDate></item><item><title>Ransom.HC7</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-122114-0854-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 21, 2017</pubDate></item><item><title>Ransom.HDDCryptor</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-091623-0636-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 17, 2016</pubDate></item><item><title>Ransom.Hermes</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-022015-3241-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 20, 2017</pubDate></item><item><title>Ransom.Hermes!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-031314-5606-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 13, 2018</pubDate></item><item><title>Ransom.Hermes.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-101616-0131-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 14, 2017</pubDate></item><item><title>Ransom.HiBuddy</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-122906-5106-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 29, 2015</pubDate></item><item><title>Ransom.HiddenTear</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-081810-1146-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 18, 2015</pubDate></item><item><title>Ransom.Hit</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-081613-4541-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 16, 2016</pubDate></item><item><title>Ransom.HolyCrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-072111-0520-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 21, 2016</pubDate></item><item><title>Ransom.Ishtar</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-022221-5554-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 22, 2017</pubDate></item><item><title>Ransom.Jaff</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-052507-2902-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 25, 2017</pubDate></item><item><title>Ransom.Jaff!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-061313-1913-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 05, 2017</pubDate></item><item><title>Ransom.Jigsaw</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-041123-3256-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.JobCrypter</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-021103-4134-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 11, 2016</pubDate></item><item><title>Ransom.JuicyLemon</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-071512-5346-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 16, 2016</pubDate></item><item><title>Ransom.JuicyLemon!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-071514-0301-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 16, 2016</pubDate></item><item><title>Ransom.KaoTear</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-082607-4458-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 26, 2016</pubDate></item><item><title>Ransom.Karo</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-071215-3946-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 12, 2017</pubDate></item><item><title>Ransom.Kawaii</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-091221-2023-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 12, 2016</pubDate></item><item><title>Ransom.KeyBTC</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-070312-1046-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 03, 2014</pubDate></item><item><title>Ransom.Keyholder</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-010516-2504-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 05, 2015</pubDate></item><item><title>Ransom.Kovter</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-040111-0605-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 01, 2014</pubDate></item><item><title>Ransom.Kovter!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-090910-1405-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 09, 2014</pubDate></item><item><title>Ransom.Kovter!gen2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-010716-2825-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 07, 2015</pubDate></item><item><title>Ransom.Kovter!gen3</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-083114-1836-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 21, 2015</pubDate></item><item><title>Ransom.Kovter!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-110511-5154-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 04, 2014</pubDate></item><item><title>Ransom.Kovter.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-041823-0334-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Kriptovor</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-042818-1702-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 28, 2015</pubDate></item><item><title>Ransom.LambdaLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-020606-4613-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 06, 2017</pubDate></item><item><title>Ransom.LeChiffre</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-012614-2833-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 26, 2016</pubDate></item><item><title>Ransom.LEIA</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-071914-1415-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 19, 2016</pubDate></item><item><title>Ransom.Locky</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-021706-1402-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 17, 2016</pubDate></item><item><title>Ransom.Locky!g12</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-090215-2936-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 30, 2016</pubDate></item><item><title>Ransom.Locky!g14</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-120111-0731-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 01, 2016</pubDate></item><item><title>Ransom.Locky!g16</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-120111-1533-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 09, 2016</pubDate></item><item><title>Ransom.Locky!g17</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-091602-3956-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 14, 2016</pubDate></item><item><title>Ransom.Locky!g19</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-092014-0347-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 20, 2016</pubDate></item><item><title>Ransom.Locky!g21</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-102106-3828-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 21, 2016</pubDate></item><item><title>Ransom.Locky!g6</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061312-5852-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Locky!g8</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-090215-2542-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 13, 2016</pubDate></item><item><title>Ransom.Locky!lnk</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-012608-1656-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 25, 2017</pubDate></item><item><title>Ransom.Locky.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-090111-1559-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 31, 2017</pubDate></item><item><title>Ransom.Maktub</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032403-2235-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Maktub!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032411-1340-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.MarsJoke</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-092710-3618-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 26, 2016</pubDate></item><item><title>Ransom.MarsJoke!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-010315-4915-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 26, 2016</pubDate></item><item><title>Ransom.Masterbuster</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-110413-1609-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 02, 2016</pubDate></item><item><title>Ransom.Matrix</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-041713-3238-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 10, 2018</pubDate></item><item><title>Ransom.MIRCOP</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-062923-2009-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 30, 2016</pubDate></item><item><title>Ransom.Mischa</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051613-5427-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.MMLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-050915-5129-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Mobef</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051614-2332-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Mole</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-041313-5536-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 13, 2017</pubDate></item><item><title>Ransom.MVPLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-021300-4705-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 13, 2016</pubDate></item><item><title>Ransom.MyLittleRansom</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061422-3523-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 15, 2016</pubDate></item><item><title>Ransom.Nagini </title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-092818-2020-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 28, 2016</pubDate></item><item><title>Ransom.NanoLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-011214-3635-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 12, 2016</pubDate></item><item><title>Ransom.NanoLocker!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-011310-4509-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 12, 2016</pubDate></item><item><title>Ransom.Nemucod</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-042022-5055-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Nemucod.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061323-2133-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 14, 2016</pubDate></item><item><title>Ransom.Nemucod.B!php</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061313-3801-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 14, 2016</pubDate></item><item><title>Ransom.ODCODC</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-060612-3959-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 06, 2016</pubDate></item><item><title>Ransom.OMG</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-030318-1550-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 03, 2014</pubDate></item><item><title>Ransom.Ophionlocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-121512-5150-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 15, 2014</pubDate></item><item><title>Ransom.ORXLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-083103-3727-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 31, 2015</pubDate></item><item><title>Ransom.OzozaLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-112400-2904-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 24, 2016</pubDate></item><item><title>Ransom.Pacman</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-040608-5002-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 05, 2015</pubDate></item><item><title>Ransom.PadCrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-022219-1829-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 18, 2016</pubDate></item><item><title>Ransom.PClock</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-010516-1936-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 05, 2015</pubDate></item><item><title>Ransom.PClock2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-041313-2527-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 12, 2015</pubDate></item><item><title>Ransom.PCsurveyLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-111506-3602-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 15, 2016</pubDate></item><item><title>Ransom.Petya</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032913-4222-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Petya!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-062809-4521-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 27, 2017</pubDate></item><item><title>Ransom.Philadelphia</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-091611-2830-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 17, 2016</pubDate></item><item><title>Ransom.Pizzacrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-071122-4812-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 11, 2016</pubDate></item><item><title>Ransom.Pollcrypto</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-021009-5917-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2015</pubDate></item><item><title>Ransom.PolloLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-050723-5132-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 07, 2015</pubDate></item><item><title>Ransom.PowerWare</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-060513-1113-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 05, 2014</pubDate></item><item><title>Ransom.PowerWare.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-072210-0220-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 22, 2016</pubDate></item><item><title>Ransom.Precist</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-040416-0142-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 03, 2018</pubDate></item><item><title>Ransom.PrincessLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-112203-3420-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 22, 2016</pubDate></item><item><title>Ransom.Purge</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-082507-4618-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 25, 2016</pubDate></item><item><title>Ransom.Radamant</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-122110-0855-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 28, 2015</pubDate></item><item><title>Ransom.Radamant!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-010716-3027-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 05, 2016</pubDate></item><item><title>Ransom.Ransoc</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-111512-3943-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 15, 2016</pubDate></item><item><title>Ransom.Ransom32</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-010511-3101-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 04, 2016</pubDate></item><item><title>Ransom.Rapid</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-031306-2931-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 12, 2018</pubDate></item><item><title>Ransom.RARcrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-071022-4909-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 12, 2014</pubDate></item><item><title>Ransom.Redboot</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-092604-1105-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 26, 2017</pubDate></item><item><title>Ransom.Reyptson</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-072703-4612-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 26, 2017</pubDate></item><item><title>Ransom.Rokku</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-040513-4446-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 05, 2016</pubDate></item><item><title>Ransom.Safefiles32</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-081415-1549-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 15, 2015</pubDate></item><item><title>Ransom.Safefiles32!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-081417-1458-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 15, 2015</pubDate></item><item><title>Ransom.SamSam</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-030211-4046-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.SamSam!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-040106-3934-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.SamSam!gen2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-040106-5542-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Sanction</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-040614-1457-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Satan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-051806-5250-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 16, 2018</pubDate></item><item><title>Ransom.Satana</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-063002-4327-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 30, 2016</pubDate></item><item><title>Ransom.Serpico</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-090123-4138-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 02, 2016</pubDate></item><item><title>Ransom.Seven</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-012615-2557-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 26, 2016</pubDate></item><item><title>Ransom.SharkRaaS</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-081515-3203-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 15, 2016</pubDate></item><item><title>Ransom.SHCLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-102414-0558-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 21, 2016</pubDate></item><item><title>Ransom.Shifr</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-071714-4119-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 17, 2017</pubDate></item><item><title>Ransom.Shujin</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051712-3554-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.ShurL0ckr</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-021208-2435-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 10, 2018</pubDate></item><item><title>Ransom.SMRSS32</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-081513-2730-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 15, 2016</pubDate></item><item><title>Ransom.Sorebrect</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-061913-4515-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 19, 2017</pubDate></item><item><title>Ransom.Spora</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-011107-2825-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 11, 2017</pubDate></item><item><title>Ransom.Spora!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-020814-5639-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 04, 2017</pubDate></item><item><title>Ransom.Spora!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-020316-2415-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 04, 2017</pubDate></item><item><title>Ransom.Stampado</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-072514-1606-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 24, 2016</pubDate></item><item><title>Ransom.SupportScam</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-110522-0401-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 05, 2014</pubDate></item><item><title>Ransom.SupportScam.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051817-0655-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.SupportScam.C</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-080818-3758-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 05, 2016</pubDate></item><item><title>Ransom.Synolocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-080708-1950-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 07, 2014</pubDate></item><item><title>Ransom.Telecrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-111015-4212-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 10, 2016</pubDate></item><item><title>Ransom.TeslaCrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-030201-5710-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 01, 2015</pubDate></item><item><title>Ransom.TeslaCrypt!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-122911-1358-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 29, 2015</pubDate></item><item><title>Ransom.TeslaCrypt!g10</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-080407-2642-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 17, 2016</pubDate></item><item><title>Ransom.TeslaCrypt!g11</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-090218-1416-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate/></item><item><title>Ransom.TeslaCrypt!g12</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061313-1017-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 23, 2016</pubDate></item><item><title>Ransom.TeslaCrypt!g2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-010607-5635-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 06, 2016</pubDate></item><item><title>Ransom.TeslaCrypt!g3</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-012203-3319-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 21, 2016</pubDate></item><item><title>Ransom.TeslaCrypt!g4</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-022208-5423-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 22, 2016</pubDate></item><item><title>Ransom.TeslaCrypt!g7</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051106-5141-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.TeslaCrypt!g8</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-080407-1559-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 16, 2016</pubDate></item><item><title>Ransom.TeslaCrypt!g9</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-080407-2151-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 17, 2016</pubDate></item><item><title>Ransom.TeslaCrypt!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-050110-5855-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 01, 2015</pubDate></item><item><title>Ransom.ThreatFinder</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-042123-4157-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 22, 2015</pubDate></item><item><title>Ransom.TorLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-030518-2233-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 05, 2014</pubDate></item><item><title>Ransom.TorrentLock!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-030615-4238-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 06, 2015</pubDate></item><item><title>Ransom.TorrentLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-082015-3501-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 20, 2014</pubDate></item><item><title>Ransom.Tox</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-052812-2010-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 28, 2015</pubDate></item><item><title>Ransom.Troldesh</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-060408-1522-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 04, 2015</pubDate></item><item><title>Ransom.Troldesh!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-081313-0926-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 13, 2015</pubDate></item><item><title>Ransom.TrueCrypter</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-042813-3122-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Uiwix</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-051811-1414-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 18, 2017</pubDate></item><item><title>Ransom.UmbreCrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-021519-3303-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 15, 2016</pubDate></item><item><title>Ransom.VaultCrypt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-032015-4327-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 20, 2015</pubDate></item><item><title>Ransom.Vortex</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-032123-5305-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 21, 2017</pubDate></item><item><title>Ransom.Wannacry</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-051310-3522-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>May 12, 2017</pubDate></item><item><title>Ransom.Wannacry!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-051702-4201-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>May 15, 2017</pubDate></item><item><title>Ransom.Wannacry!gen2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-051610-4543-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>May 15, 2017</pubDate></item><item><title>Ransom.Wannacry!gen3</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-051610-5619-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>May 16, 2017</pubDate></item><item><title>Ransom.Wannacry!gen4</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-070314-4249-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Jul 01, 2017</pubDate></item><item><title>Ransom.Xpan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-093011-3424-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 30, 2016</pubDate></item><item><title>Ransom.YeeScrLocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-112515-0652-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 25, 2016</pubDate></item><item><title>Ransom.Yougothacked</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-042515-2441-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Ransom.Zenis</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-032806-0048-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 27, 2018</pubDate></item><item><title>Ransom.Zerolocker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-081521-4509-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 16, 2014</pubDate></item><item><title>Ransom.Zyklon</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061414-4226-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 16, 2016</pubDate></item><item><title>Ranson.Gen!gm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-062608-4055-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 24, 2017</pubDate></item><item><title>RaptorDefence</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-022213-5302-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Feb 23, 2008</pubDate></item><item><title>Ravage (b)</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-070415-3315-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Aug 07, 1997</pubDate></item><item><title>RazeSpyware</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-021314-0152-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Feb 13, 2006</pubDate></item><item><title>RealAV</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-030713-1009-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Mar 07, 2008</pubDate></item><item><title>Red Alert</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121511-0417-99&amp;om_rssid=sr-</link><description> Type: 
+Hoax
+</description><pubDate/></item><item><title>REG.Regbomb.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-011814-2551-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jan 21, 2002</pubDate></item><item><title>RegClean</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-010716-1329-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate>Jan 07, 2008</pubDate></item><item><title>RegistryCare</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-033009-1016-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Mar 30, 2006</pubDate></item><item><title>RegistryCleanerXP</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-062912-1113-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Jun 29, 2007</pubDate></item><item><title>RegistryCleanFix</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-102611-5103-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Oct 26, 2007</pubDate></item><item><title>RegistryDefender</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-070805-2257-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Jul 08, 2008</pubDate></item><item><title>RegistryDoctor2008</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-073012-4118-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Jul 30, 2008</pubDate></item><item><title>RegistryGreat</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-050213-5120-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>May 02, 2008</pubDate></item><item><title>RegistrySweeper</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-032913-3541-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Mar 29, 2006</pubDate></item><item><title>RegSort</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-121823-4732-99&amp;om_rssid=sr-</link><description> Type: 
+Misleading Application
+</description><pubDate>Dec 18, 2007</pubDate></item><item><title>Reizfaktor</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121512-0638-99&amp;om_rssid=sr-</link><description> Type: 
+Macro
+</description><pubDate>Dec 15, 2000</pubDate></item><item><title>Remacc</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2010-052615-0006-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Jul 07, 2003</pubDate></item><item><title>Remacc.ABSystemSpy</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-012015-3650-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Jan 19, 2006</pubDate></item><item><title>Remacc.Ammyy</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-060113-5054-99&amp;om_rssid=sr-</link><description> Type: 
+Other
+</description><pubDate>Jun 01, 2015</pubDate></item><item><title>Remacc.MultiWebSurv</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-122011-3849-99&amp;om_rssid=sr-</link><description> Type: 
+Other
+</description><pubDate>Dec 19, 2007</pubDate></item><item><title>Remacc.MyShell</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-060917-5606-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Jun 10, 2005</pubDate></item><item><title>Remacc.Radmin</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-101410-2713-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Oct 14, 2003</pubDate></item><item><title>Remacc.RAServer</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-091913-0201-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Sep 19, 2003</pubDate></item><item><title>Remacc.RCPro</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-031012-0040-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Mar 11, 2006</pubDate></item><item><title>Remacc.Rics</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-022012-1300-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Feb 20, 2004</pubDate></item><item><title>Remacc.SAdoor</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-122615-1218-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Dec 29, 2003</pubDate></item><item><title>Remacc.SpyAnywhere</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-091717-4118-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Sep 17, 2004</pubDate></item><item><title>Remacc.Surveil</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-091015-0705-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Sep 10, 2003</pubDate></item><item><title>Remacc.WinPCGuard</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-082913-3702-99&amp;om_rssid=sr-</link><description> Type: 
+Other
+</description><pubDate>Aug 26, 2016</pubDate></item><item><title>Remember.1081</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-050716-2707-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>May 08, 2003</pubDate></item><item><title>Remember.1087</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-050716-5315-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>May 08, 2003</pubDate></item><item><title>Remember.1091</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-050717-2311-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>May 08, 2003</pubDate></item><item><title>Remoc.368</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-050815-2950-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>May 09, 2004</pubDate></item><item><title>RemoteAccess.ADH </title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2010-041000-1717-99&amp;om_rssid=sr-</link><description> Type: 
+Other Trojan
+</description><pubDate>Jun 29, 2010</pubDate></item><item><title>RemoteAccess.BL</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-082119-4811-99&amp;om_rssid=sr-</link><description> Type: 
+Other Trojan
+</description><pubDate>Aug 08, 2013</pubDate></item><item><title>RemoteAccess.Gen</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-072813-3642-99&amp;om_rssid=sr-</link><description> Type: 
+RemoteAccess
+</description><pubDate>Jul 28, 2014</pubDate></item><item><title>Reom.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-040417-0722-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Apr 04, 2003</pubDate></item><item><title>Reverse.948</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121809-3125-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 18, 2000</pubDate></item><item><title>Ricsi.806</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-121111-4159-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 11, 2001</pubDate></item><item><title>RingZero.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121809-3414-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Oct 26, 1999</pubDate></item><item><title>Ripper</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121809-5135-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 18, 2000</pubDate></item><item><title>Rodolf.4096</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-082111-3951-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Jun 05, 1995</pubDate></item><item><title>Ruby.Badbunny</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-052400-4529-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>May 24, 2007</pubDate></item><item><title>Ruby.Sylrot@mm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-090209-4233-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Sep 02, 2008</pubDate></item><item><title>Rupe1.923</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-041011-5237-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Apr 09, 2001</pubDate></item><item><title>Russian_Flag</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121809-5545-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 18, 2000</pubDate></item></channel></rss>

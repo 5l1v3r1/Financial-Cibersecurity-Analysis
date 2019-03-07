@@ -1,0 +1,8 @@
+('california', 8)
+('xa0and', 7)
+('japan', 6)
+('india', 3)
+('london', 3)
+('china', 2)
+('mexico', 2)
+('russia', 2)

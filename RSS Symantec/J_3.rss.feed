@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>RSS Feed - Symantec Corp.</title><description>The Threat Explorer is a comprehensive resource for daily, accurate and up-to-date information on the latest threats, risks and vulnerabilities.</description><item><title>JailBreak</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2009-090414-1711-99&amp;om_rssid=sr-</link><description> Type: 
+Security Assessment Tool
+</description><pubDate>Sep 04, 2009</pubDate></item><item><title>Jan1st20.exe Virus Hoax</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121910-1737-99&amp;om_rssid=sr-</link><description> Type: 
+Hoax
+</description><pubDate/></item><item><title>JandM</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121512-5212-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 15, 2000</pubDate></item><item><title>Java.Awetook</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2012-082715-0841-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 27, 2012</pubDate></item><item><title>Java.BackOrifice</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-012319-4813-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jan 24, 2002</pubDate></item><item><title>Java.BeanHive</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121910-5507-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Jan 19, 1999</pubDate></item><item><title>Java.Boxer</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2009-070312-0947-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate>Jul 03, 2009</pubDate></item><item><title>Java.Bozmub</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-030220-4142-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>Java.Cogyeka</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2012-070706-4059-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Jul 04, 2012</pubDate></item><item><title>Java.Cogyeka!autorun</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2012-071306-4418-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate/></item><item><title>Java.Cogyeka!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2012-120404-3152-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Dec 04, 2012</pubDate></item><item><title>Java.Minesteal</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-030409-5036-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 02, 2013</pubDate></item><item><title>Java.Minthread</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-012319-5649-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jan 24, 2002</pubDate></item><item><title>Java.Nastybrew.A</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-052714-4037-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate/></item><item><title>Java.Nocheat</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-092809-3233-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate/></item><item><title>Java.Opfake</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-091711-5325-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 17, 2013</pubDate></item><item><title>Java.Sfecla.A</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-061315-3027-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Jun 14, 2007</pubDate></item><item><title>Java.StartPage</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-022015-2832-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate/></item><item><title>Java.Tomdep</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-111815-1359-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Oct 31, 2013</pubDate></item><item><title>Java.Tomdep!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-111816-1403-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Oct 31, 2013</pubDate></item><item><title>JavaApp.Strange Brew</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121911-0104-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 19, 2000</pubDate></item><item><title>Jazva.686</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-112210-2944-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Nov 21, 2002</pubDate></item><item><title>Jdbgmgr.exe file hoax</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-041208-2143-99&amp;om_rssid=sr-</link><description> Type: 
+Hoax
+</description><pubDate/></item><item><title>Jeru.Suriv1.01.Argent</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121911-0747-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 19, 2000</pubDate></item><item><title>Jerusalem.1244</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121414-5408-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 14, 2000</pubDate></item><item><title>Jerusalem.1500</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121416-2559-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 14, 2000</pubDate></item><item><title>Jerusalem.1664</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-110517-5620-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Nov 06, 2002</pubDate></item><item><title>Jerusalem.1808</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121416-4146-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 14, 2000</pubDate></item><item><title>Jerusalem.Sunday.A</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121416-5646-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 14, 2000</pubDate></item><item><title>Jerusalem.Zero_Time.Aust</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121417-0937-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 14, 2000</pubDate></item><item><title>JHC.1634</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-013017-5626-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Jan 31, 2003</pubDate></item><item><title>John Kennedy Jr Trojan Hoax</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121916-1901-99&amp;om_rssid=sr-</link><description> Type: 
+Hoax
+</description><pubDate/></item><item><title>JohntheRipper</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-092316-2113-99&amp;om_rssid=sr-</link><description> Type: 
+Other
+</description><pubDate>Sep 24, 2004</pubDate></item><item><title>Join the Crew</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-122009-3737-99&amp;om_rssid=sr-</link><description> Type: 
+Hoax
+</description><pubDate/></item><item><title>Joke.ADH </title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2010-040923-4646-99&amp;om_rssid=sr-</link><description> Type: 
+Joke Trojan
+</description><pubDate>Jun 29, 2010</pubDate></item><item><title>Joke.Amigo</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-081511-0543-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jul 08, 2002</pubDate></item><item><title>Joke.AnnoyGreet</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-072213-0841-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jul 22, 2005</pubDate></item><item><title>Joke.AnnoyPal</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-091912-3024-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 19, 2003</pubDate></item><item><title>Joke.Apeldorn</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-010916-0415-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jan 09, 2004</pubDate></item><item><title>Joke.Aprool</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-040116-1806-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Apr 01, 2004</pubDate></item><item><title>Joke.BL</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-082119-5820-99&amp;om_rssid=sr-</link><description> Type: 
+Joke Trojan
+</description><pubDate>Aug 08, 2013</pubDate></item><item><title>Joke.Blusod</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-062714-5037-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jun 27, 2008</pubDate></item><item><title>Joke.Bonus</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-113011-2926-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Nov 30, 2004</pubDate></item><item><title>Joke.Boredom</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080516-2109-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Bounce</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-062712-2828-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jun 27, 2004</pubDate></item><item><title>Joke.BrokenDisk</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080611-2041-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Bros</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080611-4433-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.ClickMe</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-081416-4948-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 15, 2004</pubDate></item><item><title>Joke.Clippy</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-033014-2337-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Mar 28, 2018</pubDate></item><item><title>Joke.CrazyMessage</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080613-5158-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Doh</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121916-3141-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate/></item><item><title>Joke.EmailFun</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-011809-2409-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jan 18, 2006</pubDate></item><item><title>Joke.ErrorMsg</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-092511-2751-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 23, 2003</pubDate></item><item><title>Joke.FakeDel</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-081514-2741-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.FakeFormat.A</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080614-1024-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.FakeStart</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-070811-0316-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jul 08, 2005</pubDate></item><item><title>Joke.Flash</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-122912-1425-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Dec 30, 2003</pubDate></item><item><title>Joke.Flipped</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121916-4058-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate/></item><item><title>Joke.Flipped</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-092511-2425-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate/></item><item><title>Joke.Freibier</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121916-4741-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate/></item><item><title>Joke.Gen</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-072818-1452-99&amp;om_rssid=sr-</link><description> Type: 
+Other
+</description><pubDate>Jul 28, 2014</pubDate></item><item><title>Joke.Geschenk</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-101915-1736-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Oct 20, 2003</pubDate></item><item><title>Joke.HaltWin</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-081814-1850-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Hikaru</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-092416-5423-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 24, 2003</pubDate></item><item><title>Joke.IconInfest</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-020717-4631-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Feb 07, 2008</pubDate></item><item><title>Joke.Idiot</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-081814-4331-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Irritan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080615-1736-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.JepRuss</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-081815-0410-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Knijpme</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080615-4327-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Lancheck</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121917-0748-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate/></item><item><title>Joke.Madcow</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080712-4055-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Meltscreen</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-080815-4319-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 09, 2005</pubDate></item><item><title>Joke.MoveMouse</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-122516-0258-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Dec 29, 2003</pubDate></item><item><title>Joke.Noise</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-092510-5927-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 23, 2003</pubDate></item><item><title>Joke.Norantiv</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-040119-5932-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Apr 02, 2004</pubDate></item><item><title>Joke.Owned</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-011809-3228-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jan 18, 2006</pubDate></item><item><title>Joke.Playball</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-042718-3147-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Apr 27, 2004</pubDate></item><item><title>Joke.Poltergeist</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-101713-3422-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Oct 17, 2006</pubDate></item><item><title>Joke.PS2Emulator</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-092411-0419-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 23, 2003</pubDate></item><item><title>Joke.Removal</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-110414-3828-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Nov 04, 2003</pubDate></item><item><title>Joke.Remove</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-120815-3008-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Dec 09, 2004</pubDate></item><item><title>Joke.Restart</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-090210-5853-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 02, 2005</pubDate></item><item><title>Joke.Roach</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-042316-5017-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Apr 23, 2013</pubDate></item><item><title>Joke.Rosenu</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2010-051415-2137-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>May 14, 2010</pubDate></item><item><title>Joke.ScreenFlasher</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-090214-1329-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 02, 2005</pubDate></item><item><title>Joke.Sojfuse</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-100116-2056-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 22, 2003</pubDate></item><item><title>Joke.Stript</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080712-4819-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Stupid</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-092511-1511-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 23, 2003</pubDate></item><item><title>Joke.Stupid.C</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080713-5026-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Stupid.D</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080713-5740-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.TimeTraveler</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-011716-5536-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jan 17, 2006</pubDate></item><item><title>Joke.Train</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-080714-0506-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Trembler</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-081913-5641-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Aug 18, 2003</pubDate></item><item><title>Joke.Unknown</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2010-052714-3156-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jul 07, 2003</pubDate></item><item><title>Joke.WindowCloser</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-012917-3845-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jan 30, 2006</pubDate></item><item><title>Joke.WindowsMin</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-090917-2955-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Sep 09, 2004</pubDate></item><item><title>Joke.Wobbling</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-122008-5340-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate/></item><item><title>Joke.Year2k</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-061614-3909-99&amp;om_rssid=sr-</link><description> Type: 
+Joke
+</description><pubDate>Jun 16, 2006</pubDate></item><item><title>Joker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-122009-0424-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 20, 2000</pubDate></item><item><title>Jos.1000</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-122009-1611-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 20, 2000</pubDate></item><item><title>Joshi</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-122009-2738-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 20, 2000</pubDate></item><item><title>JS.Adashic!inf</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-031520-5610-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 14, 2017</pubDate></item><item><title>JS.Alert.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-091815-2643-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Sep 18, 2001</pubDate></item><item><title>JS.Alescurf</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2012-011213-0902-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 12, 2012</pubDate></item><item><title>JS.Astrology@mm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-011615-0052-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Jan 17, 2003</pubDate></item><item><title>JS.Badbunny</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-052400-2535-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>May 24, 2007</pubDate></item><item><title>JS.Bateleur</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-081403-3348-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 12, 2017</pubDate></item><item><title>JS.Bicycle</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-041221-4018-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Apr 11, 2007</pubDate></item><item><title>JS.Blink.A@m</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-050916-1633-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>May 09, 2001</pubDate></item><item><title>JS.Bondat</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-021912-5112-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Feb 19, 2015</pubDate></item><item><title>JS.Bondat!lnk</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-021314-5145-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Feb 13, 2017</pubDate></item><item><title>JS.Brapps</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2013-062714-3659-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Jun 27, 2013</pubDate></item><item><title>JS.Cada.A</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-072513-5941-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Jul 24, 2005</pubDate></item><item><title>JS.Casra</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-122310-1056-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 24, 2003</pubDate></item><item><title>JS.Cloud.1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-112210-1233-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Virus
+</description><pubDate>Sep 11, 2017</pubDate></item><item><title>JS.Cloud.2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-112406-4406-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 23, 2017</pubDate></item><item><title>JS.Cloud.4</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-112406-5513-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 15, 2017</pubDate></item><item><title>JS.Cloud.5</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-112407-0303-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 15, 2017</pubDate></item><item><title>JS.Congrats.A@mm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-041913-3141-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Apr 19, 2001</pubDate></item><item><title>JS.Coolsite@mm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-121815-0806-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Dec 19, 2001</pubDate></item><item><title>JS.Debeski.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-100216-0712-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Oct 03, 2003</pubDate></item><item><title>JS.Disturbed.A@m</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-050413-4638-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>May 04, 2001</pubDate></item><item><title>JS.Dosdeming</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-091815-2734-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 18, 2017</pubDate></item><item><title>JS.Downloader</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-102718-1528-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 28, 2003</pubDate></item><item><title>JS.Downloader!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-032515-3133-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 26, 2015</pubDate></item><item><title>JS.Downloader!gen11</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-031115-3156-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Downloader!gen12</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-031707-5801-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Downloader!gen13</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-031709-1721-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Downloader!gen15</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032111-0538-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Downloader!gen16</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-090219-1146-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate/></item><item><title>JS.Downloader!gen17</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032410-2514-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Downloader!gen18</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032306-4602-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Downloader!gen19</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-032419-2515-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 30, 2017</pubDate></item><item><title>JS.Downloader!gen20</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051902-1213-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Downloader!gen21</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-070105-5029-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 01, 2016</pubDate></item><item><title>JS.Downloader!gen23</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-100603-0200-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 06, 2016</pubDate></item><item><title>JS.Downloader!gen25</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-120807-4322-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 08, 2016</pubDate></item><item><title>JS.Downloader!gen26</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-010303-2653-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 02, 2017</pubDate></item><item><title>JS.Downloader!gen27</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-101707-2226-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 16, 2017</pubDate></item><item><title>JS.Downloader!gen28</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-011205-4905-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 12, 2017</pubDate></item><item><title>JS.Downloader!gen29</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-011816-3152-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 18, 2017</pubDate></item><item><title>JS.Downloader!gen31</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-062313-1543-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 21, 2017</pubDate></item><item><title>JS.Downloader!gen32</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-062313-1955-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 23, 2017</pubDate></item><item><title>JS.Downloader!gen33</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-060703-3527-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 07, 2017</pubDate></item><item><title>JS.Downloader!gen34</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-060907-1639-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 09, 2017</pubDate></item><item><title>JS.Downloader!gen35</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-060907-2410-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 09, 2017</pubDate></item><item><title>JS.Downloader!gen36</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-061601-4147-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 17, 2017</pubDate></item><item><title>JS.Downloader!gen37</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-062906-5936-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 29, 2017</pubDate></item><item><title>JS.Downloader!gen39</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-071910-4936-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jul 19, 2017</pubDate></item><item><title>JS.Downloader!gen5</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-082718-4356-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 28, 2015</pubDate></item><item><title>JS.Downloader!gen6</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-111717-5551-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 17, 2015</pubDate></item><item><title>JS.Downloader!gen7</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-120300-3353-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 02, 2015</pubDate></item><item><title>JS.Downloader!gen8</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-020919-5339-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 09, 2016</pubDate></item><item><title>JS.Downloader!gen9</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-020920-0100-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 09, 2016</pubDate></item><item><title>JS.Downloader.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-121816-5855-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Virus
+</description><pubDate>Dec 18, 2008</pubDate></item><item><title>JS.Downloader.D</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-110312-1900-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 03, 2016</pubDate></item><item><title>JS.Downloader.E</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-010909-4517-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 09, 2017</pubDate></item><item><title>JS.Downloader.F</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-011008-0153-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 10, 2017</pubDate></item><item><title>JS.Downloader.G</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-011808-0302-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 18, 2017</pubDate></item><item><title>JS.Downloader.H</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-041814-3414-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 18, 2017</pubDate></item><item><title>JS.Dropper</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-051910-0329-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Enigmaper</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-120311-2554-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 03, 2015</pubDate></item><item><title>JS.Exception.Exploit</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-082822-3603-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Aug 20, 2001</pubDate></item><item><title>JS.Exception.Exploit.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-020108-0430-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jan 17, 2002</pubDate></item><item><title>JS.ExitW.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-072208-1212-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Mar 20, 2002</pubDate></item><item><title>JS.Facexworm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2018-050814-0100-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>May 03, 2018</pubDate></item><item><title>JS.Faizal</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-050709-5710-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>May 07, 2008</pubDate></item><item><title>JS.Fakeransom</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-101908-5324-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Oct 19, 2015</pubDate></item><item><title>JS.Fav</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-021615-2039-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Feb 16, 2001</pubDate></item><item><title>JS.Ffsniff</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-030316-4323-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Mar 03, 2006</pubDate></item><item><title>JS.Fortnight</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-051412-1139-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate/></item><item><title>JS.Fortnight.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-031909-4336-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse Worm
+</description><pubDate>Mar 20, 2003</pubDate></item><item><title>JS.Fortnight.C</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-070215-2558-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse Worm
+</description><pubDate>Jul 03, 2003</pubDate></item><item><title>JS.Fortnight.D</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-102412-1446-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate/></item><item><title>JS.Frienren</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2009-082405-1354-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Aug 26, 2009</pubDate></item><item><title>JS.Frist</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-122313-1212-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 24, 2002</pubDate></item><item><title>JS.Gigger.A@mm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-011011-3021-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate/></item><item><title>JS.Gynamed</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-112215-3847-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Nov 23, 2004</pubDate></item><item><title>JS.Harunaut</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-100607-1312-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Oct 06, 2007</pubDate></item><item><title>JS.Heur.SNIC</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-060813-4828-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 08, 2017</pubDate></item><item><title>JS.Heur.SNIC.2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-121515-1627-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 15, 2017</pubDate></item><item><title>JS.Icabdi.A</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-030715-0300-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Mar 05, 2006</pubDate></item><item><title>JS.Jabbit</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-112422-1508-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Nov 25, 2004</pubDate></item><item><title>JS.KakWorm.E@M </title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-013012-3552-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Jan 03, 2001</pubDate></item><item><title>JS.KakWorm.G</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-032719-0203-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Mar 07, 2001</pubDate></item><item><title>JS.Kidrash</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-120114-2410-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 01, 2004</pubDate></item><item><title>JS.Kopiwak</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-020314-2657-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 03, 2017</pubDate></item><item><title>JS.Kraacha</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-112017-0231-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Nov 18, 2017</pubDate></item><item><title>JS.Menger.Worm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-021317-2307-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate/></item><item><title>JS.Nemucod</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-120112-4419-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 01, 2015</pubDate></item><item><title>JS.Nemucod!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-090512-0742-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Sep 04, 2017</pubDate></item><item><title>JS.Nemucod!g2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-122807-2853-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 28, 2017</pubDate></item><item><title>JS.Netrepser</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-050813-4313-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 08, 2017</pubDate></item><item><title>JS.Odyssey.602.dr</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-021311-5903-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Feb 14, 2002</pubDate></item><item><title>JS.Olvort.A@mm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-051415-3827-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>May 14, 2001</pubDate></item><item><title>JS.Optiz</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-041111-5146-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Apr 11, 2001</pubDate></item><item><title>JS.Phremous</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2012-043011-4100-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Apr 27, 2012</pubDate></item><item><title>JS.Posmonk</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-090208-0030-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Sep 02, 2008</pubDate></item><item><title>JS.Prompt</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-090711-4112-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Sep 07, 2004</pubDate></item><item><title>JS.Proslikefan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2012-091310-3211-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Sep 12, 2012</pubDate></item><item><title>JS.Proslikefan.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-110322-0143-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Nov 01, 2014</pubDate></item><item><title>JS.Proslikefan.B!g1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2014-110400-0316-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Nov 01, 2014</pubDate></item><item><title>JS.Proxybrowse</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-042023-0507-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>May 20, 2016</pubDate></item><item><title>JS.Pun.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-120111-2845-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Dec 02, 2003</pubDate></item><item><title>JS.Qsiframe</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2008-090514-3708-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Virus
+</description><pubDate>Sep 05, 2008</pubDate></item><item><title>JS.Qspace</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-120313-2523-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Dec 03, 2006</pubDate></item><item><title>JS.Rad@mm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-100210-0624-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Oct 03, 2003</pubDate></item><item><title>JS.Radex.mirc</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-021615-2912-99&amp;om_rssid=sr-</link><description> Type: 
+Worm Virus
+</description><pubDate>Feb 19, 2002</pubDate></item><item><title>JS.RansomRAA</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-061509-0328-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 16, 2016</pubDate></item><item><title>JS.Redirector</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-022015-1008-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 20, 2017</pubDate></item><item><title>JS.Redirector!gen1</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-022106-4322-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Feb 20, 2017</pubDate></item><item><title>JS.Redirector!gen2</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-032405-2749-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 24, 2017</pubDate></item><item><title>JS.Redirector!gen3</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-050212-3301-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Apr 29, 2017</pubDate></item><item><title>JS.Redirector!gen4</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-080914-0721-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Aug 09, 2017</pubDate></item><item><title>JS.Restarter</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-020512-2507-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Feb 05, 2001</pubDate></item><item><title>JS.Retefe</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-062820-3631-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jun 28, 2016</pubDate></item><item><title>JS.Rootlet.A@m</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-050816-2739-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>May 08, 2001</pubDate></item><item><title>JS.Runfore</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2012-062103-1655-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Jun 20, 2012</pubDate></item><item><title>JS.Scob.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-062411-0037-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jun 25, 2004</pubDate></item><item><title>JS.Scondeo</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2016-072713-5123-99&amp;om_rssid=sr-</link><description> Type: 
+Other
+</description><pubDate>May 30, 2016</pubDate></item><item><title>JS.SecurityToolFraud</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2009-123009-1832-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate>Dec 29, 2009</pubDate></item><item><title>JS.SecurityToolFraud.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2010-010610-4802-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate>Jan 06, 2010</pubDate></item><item><title>JS.SecurityToolFraud.C</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2010-012807-0739-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Jan 28, 2010</pubDate></item><item><title>JS.Seeker</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-011111-5423-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Dec 19, 2000</pubDate></item><item><title>JS.Seeker.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-082811-4831-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Aug 22, 2001</pubDate></item><item><title>JS.Seeker.F</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-011815-0956-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jan 07, 2002</pubDate></item><item><title>JS.Seeker.I</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-111118-4039-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Nov 12, 2002</pubDate></item><item><title>JS.Seeker.J</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-011017-1022-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jan 10, 2003</pubDate></item><item><title>JS.Seeker.K</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-100111-0931-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Oct 01, 2003</pubDate></item><item><title>JS.Speth.Worm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2004-120915-5126-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Dec 09, 2004</pubDate></item><item><title>JS.StartPage</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-040611-0655-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Apr 06, 2001</pubDate></item><item><title>JS.StartPage.B</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-072015-4209-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jul 21, 2006</pubDate></item><item><title>JS.Sykipot</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2010-031014-2034-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Mar 10, 2010</pubDate></item><item><title>JS.Teslader</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2015-120311-4137-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan
+</description><pubDate>Dec 03, 2015</pubDate></item><item><title>JS.TheThing.D.dr</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-050810-1616-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Nov 03, 2000</pubDate></item><item><title>JS.Trojan.Blinder</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2005-030416-1332-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Mar 04, 2005</pubDate></item><item><title>JS.Twettir</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2009-041212-4906-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Apr 12, 2009</pubDate></item><item><title>JS.Vajawom</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2017-032123-1401-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Worm
+</description><pubDate>Mar 21, 2017</pubDate></item><item><title>JS.Weblog</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-032717-0733-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Mar 28, 2003</pubDate></item><item><title>JS.Weisamy</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2011-062908-1826-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Jun 29, 2011</pubDate></item><item><title>JS.Winbomb.d</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-062615-1522-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jul 12, 2002</pubDate></item><item><title>JS.WindowBomb</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-021611-5533-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Nov 15, 2000</pubDate></item><item><title>JS.Wipe</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2003-031007-4607-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Mar 11, 2003</pubDate></item><item><title>JS.Wiretap.demo</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2002-012317-2400-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Jan 24, 2002</pubDate></item><item><title>JS.Woorkut</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2007-121909-5953-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Dec 19, 2007</pubDate></item><item><title>JS.Xiro.Trojan</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2001-110717-2331-99&amp;om_rssid=sr-</link><description> Type: 
+Trojan Horse
+</description><pubDate>Nov 07, 2001</pubDate></item><item><title>JS.Yamanner@m</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2006-061211-4111-99&amp;om_rssid=sr-</link><description> Type: 
+
+</description><pubDate>Jun 12, 2006</pubDate></item><item><title>JS/VBS.LostSoul.Worm</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-121814-5227-99&amp;om_rssid=sr-</link><description> Type: 
+Worm
+</description><pubDate>Sep 08, 2000</pubDate></item><item><title>Jumper</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-122009-4324-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 20, 2000</pubDate></item><item><title>Junkie</title><link>http://www.symantec.com/security_response/writeup.jsp?docid=2000-122009-5001-99&amp;om_rssid=sr-</link><description> Type: 
+Virus
+</description><pubDate>Dec 20, 2000</pubDate></item></channel></rss>
