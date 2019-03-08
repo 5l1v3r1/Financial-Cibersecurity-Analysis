@@ -1,7 +1,10 @@
 import json
 import re
+import nltk
 from nltk.stem.cistem import Cistem
 from nltk.corpus import stopwords
+nltk.download('stopwords')
+
 
 def crear_seguimientos():
     dict_titulos = dict()

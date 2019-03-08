@@ -36,7 +36,7 @@
             "sunshine": 2
         },
         "a major": {
-            "breach": 2,
+            "breach": 4,
             "threat": 3,
             "vendor": 2
         },
@@ -47,7 +47,7 @@
         },
         "a new": {
             "friend": 2,
-            "report": 6,
+            "report": 8,
             "technique": 2,
             "template": 7,
             "year": 12,
@@ -107,25 +107,12 @@
             "at": 2,
             "self": 2
         },
-        "are not": {
-            "actually": 2,
-            "as": 2,
-            "just": 3,
-            "on": 2,
-            "yet": 2
-        },
         "as a": {
             "confirmation": 3,
-            "kind": 2,
             "leading": 5,
-            "means": 2,
-            "potential": 2,
             "result": 23,
             "security": 4,
-            "service": 8,
-            "target": 2,
-            "threat": 2,
-            "warning": 2
+            "service": 8
         },
         "at least": {
             "a": 4,
@@ -169,7 +156,12 @@
             "debts": 3,
             "information": 4,
             "number": 3,
-            "numbers": 3
+            "numbers": 7
+        },
+        "data in": {
+            "60": 4,
+            "a": 3,
+            "plain": 5
         },
         "data protection": {
             "copyright": 3,
@@ -187,7 +179,7 @@
             "even": 12,
             "forget": 3,
             "get": 8,
-            "have": 87,
+            "have": 89,
             "just": 4,
             "know": 13,
             "like": 3,
@@ -235,13 +227,14 @@
             "data": 4,
             "document": 6,
             "link": 5,
+            "new": 4,
             "press": 25,
             "recent": 3,
             "report": 4,
             "small": 10,
             "statement": 5,
             "typical": 4,
-            "way": 5,
+            "way": 7,
             "while": 3
         },
         "is a": {
@@ -271,6 +264,7 @@
             "a": 24,
             "also": 9,
             "an": 6,
+            "been": 4,
             "easy": 6,
             "hard": 3,
             "important": 5,
@@ -371,6 +365,7 @@
             "department": 3,
             "federal": 14,
             "government": 4,
+            "history": 4,
             "secret": 4
         },
         "victim s": {
@@ -407,6 +402,11 @@
             "more": 4,
             "sunshine": 2
         },
+        "a major": {
+            "breach": 3,
+            "threat": 3,
+            "vendor": 2
+        },
         "a malicious": {
             "file": 2,
             "hacker": 2,
@@ -414,7 +414,7 @@
         },
         "a new": {
             "friend": 2,
-            "report": 6,
+            "report": 8,
             "technique": 2,
             "template": 7,
             "year": 2,
@@ -462,23 +462,10 @@
             "security": 4,
             "service": 5
         },
-        "at a": {
-            "different": 2,
-            "far": 2,
-            "rapid": 2,
-            "single": 3,
-            "time": 4
-        },
         "at least": {
-            "70": 2,
             "a": 4,
-            "in": 2,
-            "not": 2,
             "one": 13,
-            "some": 4,
-            "three": 2,
-            "two": 2,
-            "us": 2
+            "some": 4
         },
         "bug bounty": {
             "landscape": 4,
@@ -502,7 +489,12 @@
             "debts": 3,
             "information": 4,
             "number": 3,
-            "numbers": 3
+            "numbers": 7
+        },
+        "data in": {
+            "60": 4,
+            "a": 3,
+            "plain": 5
         },
         "do not": {
             "allow": 3,
@@ -515,7 +507,7 @@
             "even": 10,
             "forget": 3,
             "get": 8,
-            "have": 50,
+            "have": 52,
             "just": 4,
             "know": 13,
             "like": 3,
@@ -559,13 +551,14 @@
             "blog": 5,
             "document": 6,
             "link": 5,
+            "new": 4,
             "press": 25,
             "recent": 3,
             "report": 4,
             "small": 10,
             "statement": 5,
             "typical": 4,
-            "way": 5,
+            "way": 7,
             "while": 3
         },
         "is a": {
@@ -590,6 +583,7 @@
             "a": 20,
             "also": 6,
             "an": 6,
+            "been": 4,
             "easy": 4,
             "important": 4,
             "just": 6,
@@ -674,6 +668,7 @@
             "department": 3,
             "federal": 4,
             "government": 4,
+            "history": 4,
             "secret": 4
         },
         "victim s": {
@@ -694,6 +689,11 @@
             "deal": 2,
             "difference": 4,
             "part": 2
+        },
+        "a breach": {
+            "before": 2,
+            "made": 2,
+            "or": 2
         },
         "a company": {
             "called": 2,
@@ -793,7 +793,7 @@
             "more": 7
         },
         "a major": {
-            "breach": 2,
+            "breach": 4,
             "threat": 3,
             "vendor": 2
         },
@@ -808,7 +808,7 @@
             "extension": 2,
             "friend": 2,
             "layer": 2,
-            "report": 7,
+            "report": 9,
             "study": 2,
             "suspect": 2,
             "technique": 2,
@@ -911,6 +911,11 @@
             "asset": 2,
             "devices": 2,
             "services": 2
+        },
+        "after a": {
+            "hacker": 2,
+            "major": 2,
+            "year": 2
         },
         "almost two": {
             "decades": 2,
@@ -1027,6 +1032,7 @@
             "moments": 2,
             "particular": 2,
             "rapid": 2,
+            "senate": 2,
             "single": 3,
             "time": 8
         },
@@ -1107,7 +1113,12 @@
             "details": 3,
             "information": 4,
             "number": 3,
-            "numbers": 6
+            "numbers": 10
+        },
+        "data in": {
+            "60": 4,
+            "a": 3,
+            "plain": 5
         },
         "data protection": {
             "act": 3,
@@ -1134,7 +1145,7 @@
             "expect": 3,
             "forget": 4,
             "get": 10,
-            "have": 187,
+            "have": 189,
             "just": 4,
             "know": 21,
             "leave": 3,
@@ -1229,7 +1240,7 @@
             "document": 6,
             "few": 3,
             "link": 5,
-            "new": 3,
+            "new": 5,
             "perfect": 3,
             "position": 3,
             "post": 3,
@@ -1242,7 +1253,7 @@
             "statement": 7,
             "system": 3,
             "typical": 4,
-            "way": 9,
+            "way": 11,
             "while": 4,
             "world": 3
         },
@@ -1316,7 +1327,7 @@
             "almost": 5,
             "also": 14,
             "an": 11,
-            "been": 4,
+            "been": 6,
             "better": 3,
             "clear": 3,
             "easier": 3,
@@ -1352,6 +1363,11 @@
             "a": 4,
             "in": 3,
             "worth": 11
+        },
+        "may not": {
+            "be": 20,
+            "even": 3,
+            "have": 6
         },
         "on a": {
             "device": 4,
@@ -1485,6 +1501,7 @@
             "department": 3,
             "federal": 32,
             "government": 7,
+            "history": 4,
             "secret": 4,
             "u": 3
         },

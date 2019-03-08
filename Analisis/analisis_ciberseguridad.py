@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from datetime import date
 from collections import Counter
+from torrequest import torrequest
 from Analisis.stop_words import stop_words
 import requests
 import json

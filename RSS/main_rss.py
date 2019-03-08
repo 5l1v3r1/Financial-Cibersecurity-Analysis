@@ -51,7 +51,7 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
     SE DEBE DAR UN PUNTAJE BASE A LA NOTICIA BAJO ESTE CRITERIO"""
     indice_palabra_titulo = 0
     for palabra_titulo in lista_palabras_titulo:
-        for diccionario_palabra in lista_diccionarios_palabras:
+        for palabra_ciberseguridad in lista_diccionarios_palabras:
             # variable dupla_palabras es para palabras FinTech que se componen
             # de 2 palabras (por ejemplo: "banco central")
             dupla_palabras = ""
@@ -61,30 +61,26 @@ def determinar_importancia(titulo, contenido, link, peso_fuente):
                 dupla_palabras = palabra_titulo+" "+lista_palabras_titulo[
                     indice_palabra_titulo+1]
             # se ocupa .lower() para que sea case-insensitive
-            if palabra_titulo.lower() == diccionario_palabra["palabra"] or \
-                            dupla_palabras.lower() == diccionario_palabra[
-                        "palabra"]:
+            if palabra_titulo.lower() == palabra_ciberseguridad or \
+                            dupla_palabras.lower() == palabra_ciberseguridad:
                 """**** AQUI VER SI HACER UNA LISTA DE PALABRAS SOLO PARA
                 TITULO O DEJARLA COMO ESTÁ, QUE ES EN CONJUNTO CON PALABRAS
                 DEL ARTICULO ****"""
-                lista_palabras_ciberseguridad_presentes.append(diccionario_palabra[
-                                                            "palabra"])
+                lista_palabras_ciberseguridad_presentes.append(palabra_ciberseguridad)
         indice_palabra_titulo += 1
     """Añadimos a lista_palabras_ciberseguridad_presentes las palabras de ciberseguridad que
     están presentes en el contenido de la noticia"""
     indice_palabra_contenido = 0
     for palabra_contenido in lista_palabras_contenido:
-        for diccionario_palabra in lista_diccionarios_palabras:
+        for palabra_ciberseguridad in lista_diccionarios_palabras:
             dupla_palabras = ""
             if indice_palabra_contenido < len(lista_palabras_contenido)-1:
                 dupla_palabras = palabra_contenido+" "+\
                                  lista_palabras_contenido[
                     indice_palabra_contenido+1]
-            if palabra_contenido.lower() == diccionario_palabra["palabra"] or \
-                            dupla_palabras.lower() == diccionario_palabra[
-                        "palabra"]:
-                lista_palabras_ciberseguridad_presentes.append(
-                    diccionario_palabra["palabra"])
+            if palabra_contenido.lower() == palabra_ciberseguridad or \
+                            dupla_palabras.lower() == palabra_ciberseguridad:
+                lista_palabras_ciberseguridad_presentes.append(palabra_ciberseguridad)
                 lista_indices_palabras_ciberseguridad_presentes.append(
                     indice_palabra_contenido)
         indice_palabra_contenido += 1
