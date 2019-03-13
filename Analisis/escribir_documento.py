@@ -6,6 +6,7 @@ from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Image
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
+from Analisis.crear_contenido import obtener_conceptos
 from reportlab.lib.enums import TA_JUSTIFY
 
 
@@ -30,30 +31,29 @@ def escribir_documento_pdf(lista_contenido):
         else:
             ptext = '<font size=12>%s</font>' % linea
             Story.append(Paragraph(ptext, styles["Normal"]))
-            if linea[:4] != ["h", "t", "t", "p"]:
-                Story.append(Spacer(1, 12))
     doc.build(Story)
 
 
 def definir_lista_contenido():
+    lista_info_conceptos = obtener_conceptos()
     lista_noticias_hoy = list()
     lista_contenido_mes = list()
     lista_contenido_año = list()
     lista_contenido_total = list()
     lista_contenido_definiciones = list()
     lista_contenido_noticias_concepts = list()
-    conceptos_ciberseguridad_mes = "Imagenes/{}/Conceptos de Ciberseguridad mas Comunes del Mes".format(date.today())
-    img_conceptos_mes = Image(conceptos_ciberseguridad_mes, inch, inch)
+    conceptos_ciberseguridad_mes = "Imagenes/{}/Conceptos_Ciberseguridad_del_Mes.png".format(date.today())
+    img_conceptos_mes = Image(conceptos_ciberseguridad_mes, 3*inch, 3*inch)
     lista_contenido_mes.append(img_conceptos_mes)
-    conceptos_ciberseguridad_año = "Imagenes/{}/Conceptos de Ciberseguridad mas Comunes del Ano".format(
+    conceptos_ciberseguridad_año = "Imagenes/{}/Conceptos_Ciberseguridad_en_el_Ano.png".format(
         date.today())
-    img_conceptos_año = Image(conceptos_ciberseguridad_año, inch, inch)
+    img_conceptos_año = Image(conceptos_ciberseguridad_año, 3*inch, 3*inch)
     lista_contenido_año.append(img_conceptos_año)
-    conceptos_ciberseguridad_total = "Imagenes/{}/Conceptos de Ciberseguridad mas Comunes de la Historia".format(
+    conceptos_ciberseguridad_total = "Imagenes/{}/Conceptos_Ciberseguridad_en_la_Historia.png".format(
         date.today())
-    img_conceptos_total = Image(conceptos_ciberseguridad_total, inch, inch)
+    img_conceptos_total = Image(conceptos_ciberseguridad_total, 3*inch, 3*inch)
     lista_contenido_total.append(img_conceptos_total)
-    with open("Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_total.json", "r") as noticias_conceptos_total_file:
+    """with open("Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_total.json", "r") as noticias_conceptos_total_file:
         dict_noticias_conceptos = json.load(noticias_conceptos_total_file)
         for key, value in dict_noticias_conceptos.items():
             lista_contenido_total.append(key+":"+", ".join(value))
@@ -64,6 +64,13 @@ def definir_lista_contenido():
     with open("Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_mes.json", "r") as noticias_conceptos_mes_file:
         dict_noticias_conceptos = json.load(noticias_conceptos_mes_file)
         for key, value in dict_noticias_conceptos.items():
-            lista_contenido_mes.append(key+":"+", ".join(value))
+            lista_contenido_mes.append(key+":"+", ".join(value))"""
     lista_contenido = lista_contenido_mes + lista_contenido_año + lista_contenido_total
+    for concepto in lista_info_conceptos:
+        if concepto is not None:
+            palabra = concepto[0]
+            resumen = concepto[1]
+            link = concepto[2]
+            print(palabra+": "+resumen)
+            lista_contenido.append("{}: {} \n {}".format(palabra, resumen, link))
     return lista_contenido

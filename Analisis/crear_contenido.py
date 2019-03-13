@@ -1,5 +1,5 @@
 import json
-import wikipedia
+import wikipediaapi
 import re
 from collections import Counter
 from Analisis.representacion_datos import bar_chart
@@ -30,9 +30,13 @@ def obtener_conceptos():
             lista_conceptos.append(tupla_conceptos[0])
             tupla_x_axis += (tupla_conceptos[0],)
             lista_y_axis.append(tupla_conceptos[1])
-        bar_chart("Conceptos de Ciberseguridad mas Comunes de la Historia",
+        bar_chart("Conceptos_Ciberseguridad_en_la_Historia",
                   "Conceptos", "Nº de Menciones", tupla_x_axis, lista_y_axis)
         obtener_noticias(lista_conceptos, "total")
+        lista_info_conceptos = list()
+        for concepto in lista_conceptos:
+            print(concepto)
+            lista_info_conceptos.append(obtener_info_palabra(concepto))
     with open("Analisis/Archivos_JSON/Resultados_AYLIEN_limpios/conceptos_"
               "ciberseguridad_anual.json",
               "r") as conceptos_file:
@@ -47,7 +51,7 @@ def obtener_conceptos():
         for tupla_conceptos in conceptos_mas_comunes_año:
             tupla_x_axis += (tupla_conceptos[0],)
             lista_y_axis.append(tupla_conceptos[1])
-        bar_chart("Conceptos de Ciberseguridad mas Comunes del Ano",
+        bar_chart("Conceptos_Ciberseguridad_en_el_Ano",
                   "Conceptos", "Nº de Menciones", tupla_x_axis, lista_y_axis)
         obtener_noticias(lista_conceptos, "año")
     with open("Analisis/Archivos_JSON/Resultados_AYLIEN_limpios/conceptos_"
@@ -64,10 +68,10 @@ def obtener_conceptos():
         for tupla_conceptos in conceptos_mas_comunes_mes:
             tupla_x_axis += (tupla_conceptos[0],)
             lista_y_axis.append(tupla_conceptos[1])
-        bar_chart("Conceptos de Ciberseguridad mas Comunes del Mes",
+        bar_chart("Conceptos_Ciberseguridad_del_Mes",
                   "Conceptos", "Nº de Menciones", tupla_x_axis, lista_y_axis)
         obtener_noticias(lista_conceptos, "mes")
-
+    return lista_info_conceptos
 
 def obtener_noticias(lista_conceptos, tramo_tiempo):
     fecha_hoy = str(date.today()).split("-")
@@ -134,26 +138,34 @@ def obtener_contexto_ngrams():
 
 
 def obtener_info_palabra(palabra):
+
+    categories = ["Social engineering (computer security)", "Cybercrime",
+                  "Cybersecurity", "Computing", "Programming",
+                  "Software Development", "Malware", "Fraud", "Cyberwarfare",
+                  "Ransom", "Types of cyberattacks"]
     dict_terminos_symantec = cargar_terminos_symantec()
     if palabra in dict_terminos_symantec.keys():
         link = dict_terminos_symantec[palabra]["link"]
         tipo = dict_terminos_symantec[palabra]["tipo"]
-        return tipo, link
+        return palabra, tipo, link
     else:
-        pagina = wikipedia.page(palabra)
-        link = palabra.url
-        wikipedia.set_lang("es")
-        resumen = wikipedia.summary(palabra, sentences=3)
-        if not resumen:
-            wikipedia.set_lang("en")
-            resumen = wikipedia.summary(palabra, sentences=3)
-            if not resumen:
-                return link
-            else:
-                return resumen, link
+        # Extract data in Wiki format
+        wiki_wiki = wikipediaapi.Wikipedia('en')
+        page_py = wiki_wiki.page(palabra)
+        if page_py.exists():
+            categorias = page_py.categories
+            categorias = [cat.split(":")[1] for cat in categorias.keys()]
+            print(categorias)
+            for categ in categorias:
+                if categ in categories:
+                    titulo = page_py.title
+                    resumen = page_py.summary
+                    link = page_py.fullurl
+                    if not resumen:
+                        return palabra, " ", link
+                    else:
+                        return palabra, resumen, link
+                else:
+                    continue
         else:
-            return resumen, link
-
-
-if __name__ == '__main__':
-    obtener_conceptos()
+            return "", "", ""
