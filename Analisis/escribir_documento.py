@@ -43,15 +43,15 @@ def definir_lista_contenido():
     lista_contenido_definiciones = list()
     lista_contenido_noticias_concepts = list()
     conceptos_ciberseguridad_mes = "Imagenes/{}/Conceptos_Ciberseguridad_del_Mes.png".format(date.today())
-    img_conceptos_mes = Image(conceptos_ciberseguridad_mes, 3*inch, 3*inch)
+    img_conceptos_mes = Image(conceptos_ciberseguridad_mes, 5*inch, 5*inch)
     lista_contenido_mes.append(img_conceptos_mes)
     conceptos_ciberseguridad_año = "Imagenes/{}/Conceptos_Ciberseguridad_en_el_Ano.png".format(
         date.today())
-    img_conceptos_año = Image(conceptos_ciberseguridad_año, 3*inch, 3*inch)
+    img_conceptos_año = Image(conceptos_ciberseguridad_año, 5*inch, 5*inch)
     lista_contenido_año.append(img_conceptos_año)
     conceptos_ciberseguridad_total = "Imagenes/{}/Conceptos_Ciberseguridad_en_la_Historia.png".format(
         date.today())
-    img_conceptos_total = Image(conceptos_ciberseguridad_total, 3*inch, 3*inch)
+    img_conceptos_total = Image(conceptos_ciberseguridad_total, 5*inch, 5*inch)
     lista_contenido_total.append(img_conceptos_total)
     """with open("Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_total.json", "r") as noticias_conceptos_total_file:
         dict_noticias_conceptos = json.load(noticias_conceptos_total_file)

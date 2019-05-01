@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c5985b-db17-4781-a328-23450656e2b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Archivos_JSON/palabras_finacieras.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Informes/2019-03-12.pdf" afterPath="$PROJECT_DIR$/Informes/2019-03-12.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_año.json" afterPath="$PROJECT_DIR$/Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_año.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_mes.json" afterPath="$PROJECT_DIR$/Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_mes.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_total.json" afterPath="$PROJECT_DIR$/Analisis/Archivos_JSON/noticias_conceptos/noticias_conceptos_total.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Analisis/analisis_ciberseguridad.py" afterPath="$PROJECT_DIR$/Analisis/analisis_ciberseguridad.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Analisis/crear_contenido.py" afterPath="$PROJECT_DIR$/Analisis/crear_contenido.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Analisis/escribir_documento.py" afterPath="$PROJECT_DIR$/Analisis/escribir_documento.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/titulos.txt" afterPath="$PROJECT_DIR$/titulos.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,21 +34,43 @@
       <file leaf-file-name="palabras_ciberseguridad.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Archivos_JSON/palabras_ciberseguridad.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13695">
+            <state relative-caret-position="45">
               <caret line="0" column="402" lean-forward="false" selection-start-line="0" selection-start-column="402" selection-end-line="0" selection-end-column="402" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="escribir_documento.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="escribir_documento.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Analisis/escribir_documento.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="49" column="73" lean-forward="false" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+            <state relative-caret-position="975">
+              <caret line="74" column="81" lean-forward="false" selection-start-line="74" selection-start-column="81" selection-end-line="74" selection-end-column="81" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analisis_ciberseguridad.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Analisis/analisis_ciberseguridad.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2145">
+              <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_rss.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RSS/main_rss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4365">
+              <caret line="296" column="36" lean-forward="false" selection-start-line="296" selection-start-column="35" selection-end-line="296" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,7 +88,7 @@
       <file leaf-file-name="info_noticias.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Analisis/Archivos_JSON/info_noticias.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30702">
+            <state relative-caret-position="0">
               <caret line="0" column="252030" lean-forward="false" selection-start-line="0" selection-start-column="252030" selection-end-line="0" selection-end-column="252030" />
               <folding />
             </state>
@@ -83,7 +98,7 @@
       <file leaf-file-name="crear_contenido.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Analisis/crear_contenido.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="1050">
               <caret line="75" column="52" lean-forward="false" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -206,8 +221,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="736" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -225,6 +241,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,44 +254,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Analisis_ciberseguridad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Analisis_ciberseguridad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Informes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Analisis_ciberseguridad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Analisis_ciberseguridad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Analisis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="SearchEverywhereHistoryKey" value="palabras_ciberseguridad&#9;null&#9;null" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -545,17 +532,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="736" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22160445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22160445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850942" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -594,13 +581,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Analisis/Archivos_JSON/Resultados_AYLIEN/conceptos_mensual.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Analisis/Archivos_JSON/Resultados_AYLIEN/conceptos_total.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -781,13 +761,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Analisis/Archivos_JSON/n_grams_mensual.json">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="4457">
           <caret line="134017" column="1" lean-forward="false" selection-start-line="134017" selection-start-column="1" selection-end-line="134017" selection-end-column="1" />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Imagenes/2019-02-28/Conceptos de Ciberseguridad mas Comunes del Ano.png">
@@ -799,14 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1695">
           <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analisis/analisis_ciberseguridad.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -825,45 +797,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Analisis/limpiar_datos_AYLIEN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analisis/crear_contenido.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="75" column="52" lean-forward="false" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Archivos_JSON/palabras_finacieras.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="76" column="59" lean-forward="true" selection-start-line="76" selection-start-column="59" selection-end-line="76" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RSS/main_rss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4245">
-          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Analisis/Archivos_JSON/info_noticias.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30702">
-          <caret line="0" column="252030" lean-forward="false" selection-start-line="0" selection-start-column="252030" selection-end-line="0" selection-end-column="252030" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,6 +818,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analisis/escribir_documento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="74" column="81" lean-forward="false" selection-start-line="74" selection-start-column="81" selection-end-line="74" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RSS/main_rss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4365">
+          <caret line="296" column="36" lean-forward="false" selection-start-line="296" selection-start-column="35" selection-end-line="296" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -893,9 +847,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Analisis/Archivos_JSON/info_noticias.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="252030" lean-forward="false" selection-start-line="0" selection-start-column="252030" selection-end-line="0" selection-end-column="252030" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analisis/crear_contenido.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="75" column="52" lean-forward="false" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analisis/limpiar_datos_AYLIEN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recopilaciones/2019-02-09.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Archivos_JSON/palabras_ciberseguridad.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13695">
+        <state relative-caret-position="45">
           <caret line="0" column="402" lean-forward="false" selection-start-line="0" selection-start-column="402" selection-end-line="0" selection-end-column="402" />
           <folding />
         </state>
@@ -911,12 +899,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Analisis/escribir_documento.py">
+    <entry file="file://$PROJECT_DIR$/Analisis/analisis_ciberseguridad.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="49" column="73" lean-forward="false" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+        <state relative-caret-position="-2145">
+          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
